@@ -77,8 +77,10 @@ A beautiful, minimal, and spiritually soothing **Tasbih app** designed to help M
 
 ---
 
-## 🕋 In the Name of Allah
-> *“Remember Me, and I will remember you.”* – [Surah Al-Baqarah 2:152]
+## 📄 License
+
+This project is for **personal or educational use only**.  
+© 2024 The Amazing Minds. All Rights Reserved.
 
 ---
 
